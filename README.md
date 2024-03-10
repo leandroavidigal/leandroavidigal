@@ -1,4 +1,7 @@
 ### Olá eu sou o Leandro Vidigal 🖐🏻
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandrovidigal)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](engvidigal@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@leandro.vidigal)
 #### Cientista de Dados e Engenheiro de Controle e Automação
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandroavidigal&hide_progress=true)
@@ -35,8 +38,6 @@ Big Data Technologies (Hadoop, Spark)
 Metodologias Ágeis (Scrum)
 
 #### Contato
-Estou sempre aberto a novas oportunidades e colaborações na área de Ciência de Dados. Se você está interessado em meu trabalho ou deseja discutir projetos potenciais, sinta-se à vontade para entrar em contato:
+Estou sempre aberto a novas oportunidades e colaborações na área de Ciência de Dados. Se você está interessado em meu trabalho ou deseja discutir projetos potenciais, sinta-se à vontade para entrar em contato.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandrovidigal)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](engvidigal@gmail.com)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@leandro.vidigal)
+
