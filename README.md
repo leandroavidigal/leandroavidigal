@@ -5,7 +5,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@leandro.vidigal)
 
 #### Sobre Mim
-Sou um profissional apaixonado por dados e tecnologia, com mais de 10 anos de experiência em Engenharia de Controle e Automação em empresas multinacionais renomadas como Yamaha e Samsung. Nos últimos anos, mergulhei no mundo da Ciência de Dados, onde obtive formação em Engenharia de Dados e me especializei como Cientista de Dados.
+Sou um profissional apaixonado por dados e tecnologia, com mais de 10 anos de experiência em Engenharia em empresas multinacionais renomadas como Yamaha e Samsung. Nos últimos anos me aprofundei em Ciência de Dados, onde obtive formação em Engenharia de Dados e me especializei como Cientista de Dados.
 
 #### Formação
 - Engenheiro de Controle Automação (2013)
