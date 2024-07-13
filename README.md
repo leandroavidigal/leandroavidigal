@@ -8,10 +8,10 @@
 Sou um profissional apaixonado por dados e tecnologia, com mais de 10 anos de experiência em Engenharia em empresas multinacionais.
 
 #### Formação
-- Engenheiro de Controle Automação (2013)
-- Analista de Sistemas (2022)
 - Cientista de Dados (2024)
 - Engenheiro de Dados (2024)
+- Analista de Sistemas (2022)
+- Engenheiro de Controle Automação (2013)
 
 #### Experiência Profissional
 Lidero projetos de desenvolvimento e execução de novos produtos, aprimorando minhas habilidades na análise de problemas complexos e na busca por soluções eficientes, especialmente ao lidar com grandes conjuntos de dados. Com um foco constante na qualidade dos produtos, aplico minhas habilidades analíticas e interpretativas para otimizar processos e garantir resultados superiores. Essas experiências têm sido fundamentais para minha carreira em Ciência de Dados, onde utilizo minha expertise em análise estatística, programação e resolução de problemas para extrair insights valiosos de dados complexos. 
