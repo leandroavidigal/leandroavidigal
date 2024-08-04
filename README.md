@@ -25,12 +25,11 @@ Lidero projetos de desenvolvimento e execução de novos produtos, aprimorando m
 
 #### Habilidades Técnicas
 Análise Estatística
+Machine Learning
+AWS
 Python (Pandas, NumPy, Scikit-learn)
 SQL
 Power BI
-Matplotlib e Seaborn
-Data Cleaning e Data Wrangling
-Machine Learning
 Big Data Technologies (Hadoop, Spark)
 Metodologias Ágeis (Scrum)
 
