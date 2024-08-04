@@ -24,14 +24,8 @@ Lidero projetos de desenvolvimento e execução de novos produtos, aprimorando m
 </div>
 
 #### Habilidades Técnicas
-Análise Estatística
-Machine Learning
-AWS
-Python (Pandas, NumPy, Scikit-learn)
-SQL
-Power BI
-Big Data Technologies (Hadoop, Spark)
-Metodologias Ágeis (Scrum)
+Análise Estatística; Machine Learning; AWS; Python (Pandas, NumPy, Scikit-learn); SQL; Power BI
+Big Data Technologies (Hadoop, Spark); Metodologias Ágeis (Scrum)
 
 #### Contato
 Estou sempre aberto a novas oportunidades e colaborações na área de Ciência de Dados. Se você está interessado em meu trabalho ou deseja discutir projetos potenciais, sinta-se à vontade para entrar em contato.
