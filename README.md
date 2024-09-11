@@ -1,8 +1,6 @@
 ### Olá eu sou o Leandro Vidigal 🖐🏻
 #### Cientista de Dados e Engenheiro de Controle e Automação
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandrovidigal)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](engvidigal@gmail.com)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@leandro.vidigal)
 
 #### Sobre Mim
 Sou um profissional apaixonado por dados e tecnologia, com mais de 10 anos de experiência em Engenharia em empresas multinacionais.
@@ -14,7 +12,15 @@ Sou um profissional apaixonado por dados e tecnologia, com mais de 10 anos de ex
 - Engenheiro de Controle Automação (2013)
 
 #### Experiência Profissional
-Lidero projetos de desenvolvimento e execução de novos produtos, aprimorando minhas habilidades na análise de problemas complexos e na busca por soluções eficientes, especialmente ao lidar com grandes conjuntos de dados. Com um foco constante na qualidade dos produtos, aplico minhas habilidades analíticas e interpretativas para otimizar processos e garantir resultados superiores. Essas experiências têm sido fundamentais para minha carreira em Ciência de Dados, onde utilizo minha expertise em análise estatística, programação e resolução de problemas para extrair insights valiosos de dados complexos. 
+Sou Engenheiro de Dados e Cientista de Dados com um profundo interesse em transformar dados brutos em insights acionáveis. Durante 10 anos em empresas multinacionais, como Yamaha e Samsung, desenvolvi um forte entendimento sobre como dados podem ser aproveitados para otimizar processos, melhorar a eficiência operacional e fornecer valor real ao negócio.
+
+Nos últimos 4 anos, me especializei em ciência de dados, com foco em machine learning, automação e desenvolvimento de pipelines de dados robustos. Ferramentas como PostgreSQL, Airflow, Snowflake e dbt fazem parte do meu dia a dia, e a nuvem, especialmente AWS, me permite escalar soluções de dados de forma eficiente e segura. Acredito que a verdadeira inovação vem de combinar a capacidade técnica com a capacidade de contar histórias por meio de visualizações de dados que realmente façam a diferença para quem toma decisões.
+
+Minha abordagem é prática: sempre que enfrento um desafio, penso em como uma solução pode ser implementada de maneira escalável e sustentável. Gosto de resolver problemas complexos, especialmente aqueles que envolvem otimização de processos ou automação, e estou sempre buscando novas maneiras de aplicar machine learning e análise de dados em contextos industriais e startups.
+
+Para mim, ciência de dados vai além da técnica. Trata-se de entender o problema do cliente, de criar soluções que não apenas funcionem, mas que tragam impacto e transformação. Estou constantemente aprimorando minhas habilidades e acredito que a curiosidade e o aprendizado contínuo são os motores da excelência profissional. 
+
+Se você valoriza o uso de dados para promover inovação e eficiência, será um prazer conversar e encontrar maneiras de colaborar em projetos que tragam resultados práticos e relevantes.
 
 #### Tecnologias que utilizo no meu dia a dia
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandroavidigal&hide_progress=true)
