@@ -1,5 +1,5 @@
 ### Olá eu sou o Leandro Vidigal 🖐🏻
-#### Cientista de Dados e Engenheiro de Controle e Automação
+#### Engenheiro de Dados | Cientista de Dados | Python | SQL | AWS
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandrovidigal)
 
 #### Sobre Mim
