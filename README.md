@@ -23,7 +23,6 @@ Ao longo da minha trajetória, venho aplicando modelagem estatística para ident
 Como um profissional dedicado ao aprendizado contínuo, vejo cada novo desafio como uma oportunidade para expandir meu conhecimento e gerar valor significativo para o negócio. Se você busca um profissional que una conhecimento técnico avançado, análise estatística profunda e a habilidade de implementar soluções que resolvam problemas de maneira definitiva, estou pronto para agregar valor à sua equipe e impulsionar resultados.
 
 #### Tecnologias que utilizo no meu dia a dia
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandroavidigal&hide_progress=true)
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> 
