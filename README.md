@@ -47,6 +47,7 @@ Como um profissional dedicado ao aprendizado contínuo, vejo novos desafios como
 #### Contato
 Estou sempre aberto a novas oportunidades e colaborações na área de Ciência de Dados. Se você está interessado em meu trabalho ou deseja discutir projetos potenciais, sinta-se à vontade para entrar em contato.
 
+______________________________________________________________________________________________________________________________________________________________________
 
 ### EN
 ### Hi, I'm Leandro Vidigal 🖐🏻
