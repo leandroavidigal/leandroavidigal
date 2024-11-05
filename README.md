@@ -82,6 +82,8 @@ With a solid background in applied mathematics and statistics, I have the abilit
 
 As a professional dedicated to continuous learning, I see new challenges as opportunities to enhance my skills and generate significant business value. If you are seeking a data professional who combines technical excellence, deep statistical analysis, and a proven ability to implement effective solutions, I am ready to add value to your team and drive measurable results.
 
+![Grafico Github - Carreira Ingles](https://github.com/user-attachments/assets/8fc00276-7b78-4385-8328-e4a92d8cb286)
+
 #### Technologies I Use Daily
 <div style="display: inline_block"><br/>
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
