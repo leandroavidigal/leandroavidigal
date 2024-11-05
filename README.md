@@ -26,7 +26,7 @@ Como um profissional dedicado ao aprendizado contínuo, vejo novos desafios como
 
 #### Evolução e Projeção de Conhecimento
 Minha trajetória de desenvolvimento e busca contínua por conhecimento ao longo dos anos.
-![Evolução do Conhecimento](https://private-user-images.githubusercontent.com/114424717/383169752-777d11e9-0ec9-452c-adf4-fa7c1271cb3e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzA4MTQ1NTAsIm5iZiI6MTczMDgxNDI1MCwicGF0aCI6Ii8xMTQ0MjQ3MTcvMzgzMTY5NzUyLTc3N2QxMWU5LTBlYzktNDUyYy1hZGY0LWZhN2MxMjcxY2IzZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTEwNVQxMzQ0MTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02OGJiZGQyOGZiMTBkYjE1ZThjOTcyNzUyYzY3ODZmMmNmZmE5MmY5MWM4ZGEwNmYwYmVmOWZlOGZlODIzZjg5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Zt6ZL1xJxKpa3p17SQRk-OIA_l878_mUIVZcngxDEgo)
+![Grafico Github - Carreira](https://github.com/user-attachments/assets/6f0692a8-0029-4050-b71e-2f58eac08042)
 
 #### Tecnologias que utilizo no meu dia a dia
 <div style="display: inline_block"><br/>
