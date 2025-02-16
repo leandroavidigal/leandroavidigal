@@ -7,9 +7,13 @@ Sou um profissional apaixonado por dados e tecnologia, com mais de 12 anos de ex
 
 #### Formação
 ●	Especialização - Data Science: Decisões Baseadas em Dados | - Massachusetts Institute of Technology - MIT (2025)
+
 ●	Cientista de Dados | Escola Britânica de Artes Criativas e Tecnologia - EBAC (2024)
+
 ●	Engenheiro de Dados | Faculdade XP Educação (2024)
+
 ●	Analista de Sistemas | Centro Universitário Joaquim Nabuco de Recife (2022)
+
 ●	Engenheiro de Controle Automação | Universidade do Estado do Amazonas (2013)
 
 #### Experiência Profissional
