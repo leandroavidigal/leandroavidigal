@@ -6,15 +6,11 @@
 Sou um profissional apaixonado por dados e tecnologia, com mais de 12 anos de experiência em Engenharia em empresas multinacionais.
 
 #### Formação
-●	Especialização - Data Science: Decisões Baseadas em Dados | - Massachusetts Institute of Technology - MIT (2025)
-
-●	Cientista de Dados | Escola Britânica de Artes Criativas e Tecnologia - EBAC (2024)
-
-●	Engenheiro de Dados | Faculdade XP Educação (2024)
-
-●	Analista de Sistemas | Centro Universitário Joaquim Nabuco de Recife (2022)
-
-●	Engenheiro de Controle Automação | Universidade do Estado do Amazonas (2013)
+-	Especialização - Data Science: Decisões Baseadas em Dados | - Massachusetts Institute of Technology - MIT (2025)
+-	Cientista de Dados | Escola Britânica de Artes Criativas e Tecnologia - EBAC (2024)
+-	Engenheiro de Dados | Faculdade XP Educação (2024)
+-	Analista de Sistemas | Centro Universitário Joaquim Nabuco de Recife (2022)
+-	Engenheiro de Controle Automação | Universidade do Estado do Amazonas (2013)
 
 #### Experiência Profissional
 Como engenheiro e cientista de dados com mais de 12 anos de experiência profissional, dos quais 5 anos são dedicados à área de ciência de dados, minha expertise vai muito além da manipulação de dados. Sou especializado em resolver problemas complexos e reais por meio de técnicas avançadas de estatística e modelagem matemática.
@@ -68,11 +64,11 @@ ________________________________________________________________________________
 I am a professional passionate about data and technology, with over 12 years of experience in Engineering at multinational companies.
 
 #### Education
-●	Specialization in Data Science and Big Data: Data-Driven Decision Making - MIT (2025)
-●	Data Scientist (2024)
-●	Data Engineer (2024)
-●	 Systems Analyst (2022)
-●	Control and Automation Engineer (2013)
+-	Specialization in Data Science and Big Data: Data-Driven Decision Making - MIT (2025)
+-	Data Scientist (2024)
+-	Data Engineer (2024)
+-	 Systems Analyst (2022)
+-	Control and Automation Engineer (2013)
 
 #### Professional Experience
 
