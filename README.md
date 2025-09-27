@@ -1,11 +1,9 @@
 ### Olá eu sou o Leandro Vidigal 🖐🏻
-#### Engenheiro de Dados | Cientista de Dados | Python | SQL | AWS
+#### Data Engineer & AI | Analytics Engineer | AI Agents | ETL/ELT | Databricks, Snowflake, BigQuery | dbt, Airflow, Dataform | Python & SQL | GCP, AWS, Azure | Remote
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandrovidigal)
 
-#### Sobre Mim
-Sou um profissional apaixonado por dados e tecnologia, com mais de 12 anos de experiência em Engenharia em empresas multinacionais.
-
 #### Formação
+- Especialização - Agentes de AI com Redes Generativas | Institut d'Intelligence Artificielle Appliquée – I²A²  (2025)
 -	Especialização - Data Science: Decisões Baseadas em Dados | - Massachusetts Institute of Technology - MIT (2025)
 -	Cientista de Dados | Escola Britânica de Artes Criativas e Tecnologia - EBAC (2024)
 -	Engenheiro de Dados | Faculdade XP Educação (2024)
@@ -13,17 +11,22 @@ Sou um profissional apaixonado por dados e tecnologia, com mais de 12 anos de ex
 -	Engenheiro de Controle Automação | Universidade do Estado do Amazonas (2013)
 
 #### Experiência Profissional
-Como engenheiro e cientista de dados com mais de 12 anos de experiência profissional, dos quais 5 anos são dedicados à área de ciência de dados, minha expertise vai muito além da manipulação de dados. Sou especializado em resolver problemas complexos e reais por meio de técnicas avançadas de estatística e modelagem matemática.
+Sou Engenheiro de Dados com mais de 12 anos de experiência em ambientes corporativos complexos — de bancos a startups, passando por órgãos públicos e multinacionais. Nos últimos 6 anos, atuei com foco em engenharia de dados e analytics engineering, projetando pipelines escaláveis, confiáveis e orientados à performance.
 
-Tendo trabalhado em empresas líderes da indústria, como Yamaha e Samsung, atualmente aplico meu conhecimento na PowerOfData, onde foco na entrega de soluções de dados inovadoras que impulsionam a eficiência operacional, a otimização de processos e a inovação tecnológica.
+Desenvolvo soluções ELT/ETL robustas utilizando Python, SQL, dbt, Airflow, Dataform e Spark, em arquiteturas modernas baseadas em Databricks, Snowflake, BigQuery e Redshift. Tenho sólida experiência em ambientes cloud (GCP, AWS e Azure), com ênfase em governança, qualidade dos dados, particionamento eficiente e custo-benefício.
 
-Na PowerOfData, sou responsável pelo desenvolvimento e execução de processos completos de ETL em ambientes AWS e GCP, garantindo a coleta e transformação eficiente de dados de múltiplas fontes. Construí pipelines de dados automatizados utilizando Python e SQL, que mantêm a integridade e a qualidade dos dados em todas as etapas do fluxo de trabalho. Além disso, implemento funcionalidades para modelos de machine learning que otimizam processos empresariais e fornecem insights acionáveis em tempo real.
+Especialidades:
+• Engenharia de Dados e Analytics Engineering
+• Orquestração e transformação com dbt, Airflow e Dataform
+• Databricks, Snowflake, BigQuery e Redshift
+• Pipelines em Python e SQL com foco em performance
+• Ambientes GCP, AWS e Azure
+• Monitoramento, testes automatizados, CI/CD e versionamento
+• Integração de dados estruturados e não estruturados
+• Modelagem voltada a produtos de dados e KPIs confiáveis
 
-Em colaboração com equipes ágeis, utilizo Jira e Confluence para o gerenciamento de projetos, enquanto o Bitbucket é empregado para versionamento de código e colaboração. Também trabalho com Power BI e DBT para criar soluções analíticas avançadas que auxiliam na tomada de decisões estratégicas. Minha função envolve, de maneira consistente, a resolução de problemas complexos de dados e a obtenção de resultados impactantes.
+Atuo lado a lado com áreas de negócio e engenharia, garantindo que os dados sirvam como base confiável para decisões estratégicas, produtos analíticos e painéis operacionais. Meu trabalho é entregar dados bem modelados, documentados e prontos para uso — com escalabilidade, segurança e rastreabilidade.
 
-Com uma sólida formação em matemática aplicada e estatística, tenho a capacidade de transformar dados complexos em insights poderosos. Descubro padrões ocultos, aplico técnicas de machine learning e utilizo modelagem preditiva para abordar causas raiz e prever comportamentos futuros. Minha abordagem não apenas resolve problemas imediatos, mas também prepara o caminho para ganhos estratégicos de longo prazo.
-
-Como um profissional dedicado ao aprendizado contínuo, vejo novos desafios como oportunidades para aprimorar minhas habilidades e gerar valor significativo para os negócios. Se você está em busca de um profissional de dados que combine excelência técnica, análise estatística profunda e uma comprovada capacidade de implementar soluções eficazes, estou pronto para agregar valor à sua equipe e impulsionar resultados mensuráveis.
 
 #### Evolução e Projeção de Conhecimento
 Minha trajetória de desenvolvimento e busca contínua por conhecimento ao longo dos anos.
@@ -57,13 +60,12 @@ ________________________________________________________________________________
 ### EN
 ### Hi, I'm Leandro Vidigal 🖐🏻
 
-#### Data Engineer | Data Scientist | Python | SQL | AWS
+#### Data Engineer & AI | Analytics Engineer | AI Agents | ETL/ELT | Databricks, Snowflake, BigQuery | dbt, Airflow, Dataform | Python & SQL | GCP, AWS, Azure | Remote
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandrovidigal)
 
-#### About Me
-I am a professional passionate about data and technology, with over 12 years of experience in Engineering at multinational companies.
 
 #### Education
+- Specialization – AI Agents with Generative Networks | Institut d'Intelligence Artificielle Appliquée – I²A² (2025)
 -	Specialization in Data Science and Big Data: Data-Driven Decision Making - MIT (2025)
 -	Data Scientist (2024)
 -	Data Engineer (2024)
@@ -71,18 +73,9 @@ I am a professional passionate about data and technology, with over 12 years of 
 -	Control and Automation Engineer (2013)
 
 #### Professional Experience
+I am a Data Engineer with more than 12 years of experience in complex corporate environments—ranging from banks to startups, as well as public agencies and multinationals. Over the last 6 years, I have focused on data engineering and analytics engineering, designing scalable, reliable, and performance-oriented pipelines.
 
-As an engineer and data scientist with over 12 years of professional experience, including 5 years in data science, my expertise extends far beyond data manipulation. I specialize in solving complex, real-world problems through advanced statistical techniques and mathematical modeling.
-
-Having worked at industry-leading companies like Yamaha and Samsung, I am currently applying my knowledge at PowerOfData, where I focus on delivering innovative data solutions that drive operational efficiency, process optimization, and technological innovation.
-
-At PowerOfData, I am responsible for the development and execution of complete ETL processes in AWS and GCP environments, ensuring efficient collection and transformation of data from multiple sources. I have built automated data pipelines using Python and SQL, maintaining data integrity and quality at every stage of the workflow. Additionally, I implement features for machine learning models that optimize business processes and provide actionable, real-time insights.
-
-Collaborating with agile teams, I utilize Jira and Confluence for project management, and Bitbucket for code versioning and collaboration. I also work with Power BI and DBT to create advanced analytical solutions that assist in strategic decision-making. My role consistently involves solving complex data problems and achieving impactful results.
-
-With a solid background in applied mathematics and statistics, I have the ability to transform complex data into powerful insights. I uncover hidden patterns, apply machine learning techniques, and use predictive modeling to address root causes and forecast future behaviors. My approach not only solves immediate problems but also paves the way for long-term strategic gains.
-
-As a professional dedicated to continuous learning, I see new challenges as opportunities to enhance my skills and generate significant business value. If you are seeking a data professional who combines technical excellence, deep statistical analysis, and a proven ability to implement effective solutions, I am ready to add value to your team and drive measurable results.
+I develop robust ELT/ETL solutions using Python, SQL, dbt, Airflow, Dataform, and Spark, within modern architectures based on Databricks, Snowflake, BigQuery, and Redshift. I have solid experience in cloud environments (GCP, AWS, and Azure), with emphasis on governance, data quality, efficient partitioning, and cost-effectiveness.
 
 ![Grafico Github - Carreira Ingles](https://github.com/user-attachments/assets/8fc00276-7b78-4385-8328-e4a92d8cb286)
 
