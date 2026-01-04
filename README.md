@@ -27,11 +27,6 @@ Especialidades:
 
 Atuo lado a lado com áreas de negócio e engenharia, garantindo que os dados sirvam como base confiável para decisões estratégicas, produtos analíticos e painéis operacionais. Meu trabalho é entregar dados bem modelados, documentados e prontos para uso — com escalabilidade, segurança e rastreabilidade.
 
-
-#### Evolução e Projeção de Conhecimento
-Minha trajetória de desenvolvimento e busca contínua por conhecimento ao longo dos anos.
-![Grafico Github - Carreira](https://github.com/user-attachments/assets/6f0692a8-0029-4050-b71e-2f58eac08042)
-
 #### Tecnologias que utilizo no meu dia a dia
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -69,15 +64,13 @@ ________________________________________________________________________________
 -	Specialization in Data Science and Big Data: Data-Driven Decision Making - MIT (2025)
 -	Data Scientist (2024)
 -	Data Engineer (2024)
--	 Systems Analyst (2022)
+-	Systems Analyst (2022)
 -	Control and Automation Engineer (2013)
 
 #### Professional Experience
 I am a Data Engineer with more than 12 years of experience in complex corporate environments—ranging from banks to startups, as well as public agencies and multinationals. Over the last 6 years, I have focused on data engineering and analytics engineering, designing scalable, reliable, and performance-oriented pipelines.
 
 I develop robust ELT/ETL solutions using Python, SQL, dbt, Airflow, Dataform, and Spark, within modern architectures based on Databricks, Snowflake, BigQuery, and Redshift. I have solid experience in cloud environments (GCP, AWS, and Azure), with emphasis on governance, data quality, efficient partitioning, and cost-effectiveness.
-
-![Grafico Github - Carreira Ingles](https://github.com/user-attachments/assets/8fc00276-7b78-4385-8328-e4a92d8cb286)
 
 #### Technologies I Use Daily
 <div style="display: inline_block"><br/>
