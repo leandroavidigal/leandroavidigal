@@ -48,7 +48,7 @@ Atuo lado a lado com áreas de negócio e engenharia, garantindo que os dados si
 - **Metodologias Ágeis**: Uso de Scrum para gestão de projetos e equipes.
 
 #### Contato
-Estou sempre aberto a novas oportunidades e colaborações na área de Ciência de Dados. Se você está interessado em meu trabalho ou deseja discutir projetos potenciais, sinta-se à vontade para entrar em contato.
+Estou sempre aberto a novas oportunidades e colaborações na área de Dados. Se você está interessado em meu trabalho ou deseja discutir projetos potenciais, sinta-se à vontade para entrar em contato.
 
 ______________________________________________________________________________________________________________________________________________________________________
 
@@ -92,5 +92,5 @@ I develop robust ELT/ETL solutions using Python, SQL, dbt, Airflow, Dataform, an
 - Agile Methodologies: Use of Scrum for project and team management.
 
 #### Contact
-I am always open to new opportunities and collaborations in the field of Data Science. If you are interested in my work or would like to discuss potential projects, feel free to get in touch.
+I am always open to new opportunities and collaborations in the field of Data. If you are interested in my work or would like to discuss potential projects, feel free to get in touch.
 
